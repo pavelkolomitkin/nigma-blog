@@ -1,0 +1,73 @@
+.content
+{
+    padding: 20px;
+}
+
+.content .securiryforms
+{
+    width: 50%;
+    margin: 0 auto;
+}
+
+form
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+form .error
+{
+    color: red;
+    font-size: 13px;
+    display: none;
+}
+
+form .form-progress
+{
+    display: none;
+}
+
+textarea
+{
+    width: 100%;
+    height: 300px;
+}
+
+#search
+{
+    width: 100%;
+    font-size: 18px;
+}
+
+.post
+{
+    margin-bottom: 30px;
+}
+
+.post-text
+{
+    margin-bottom: 10px;
+}
+
+.post-author
+{
+    color: #449d44;
+}
+
+.comment
+{
+    margin-bottom: 10px;
+}
+
+.comment .comment-header
+{
+    padding-bottom: 5px;
+}
+
+.comments .list
+{
+
+}
